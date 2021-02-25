@@ -1,6 +1,6 @@
 <?php
 
-/* CASH BUDY */
-$base64_encoded_1 = "03xbaoo1dbxv11r8827ips";
-$encoded_link = "https://duit.cc/mCse82";
+/* base64_encoded /*
+$base64_encoded_1 = "bap1k99oxcxbnjpoqjAqkwjn";
+$encoded_link = "https://semawur.com/FkEkZNnC3iFN";
 
