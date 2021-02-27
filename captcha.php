@@ -1,6 +1,6 @@
 <?php
 
 /* base64_encoded */
-$base64_encoded_1 = "bap1k99oxcxbnjpoqjAqkwjn";
-$encoded_link = "https://semawur.com/FkEkZNnC3iFN";
+$base64_encoded_1 = "harus1ksubrekyahdukungterus";
+$encoded_link = "https://duit.cc/xki0a1";
 
