@@ -1,6 +1,6 @@
 <?php
 
 /* base64_encoded */
-$base64_encoded_1 = "bambankgantengsekali";
-$encoded_link = "https://duit.cc/ERKC2sd";
+$base64_encoded_1 = "sniper";
+$encoded_link = "https://zee.gl/phTjR";
 
