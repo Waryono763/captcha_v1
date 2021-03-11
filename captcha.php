@@ -13,6 +13,6 @@ ${putih}   whatsapp ${ijo}+6285896148588
 
 ";
 
-$base64_encoded_1 = "pripayer";
-$encoded_link = "https://duit.cc/DuT";
+$base64_encoded_1 = "700subrekgaes";
+$encoded_link = "https://zee.gl/1g46";
 
