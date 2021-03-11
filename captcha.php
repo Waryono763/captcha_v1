@@ -8,8 +8,8 @@ $bann = "${merah}
 ( (__ /    \ ) __/  )( ( (__ ) __ (/    \
  \___)\_/\_/(__)   (__) \___)\_)(_/\_/\_/
 
-${kuning} >${biru} KALOK ADA YANG ERROR HUBUNGI SAYA
-${putih}   whatsapp ${ijo}+6285896148588
+${kuning} >${ijo} ada dana kaget 🖒
+${putih}   link dana kaget${ijo} https://za.gl/A8dzqF
 
 ";
 
