@@ -13,6 +13,6 @@ ${putih}   link dana kaget${ijo} https://za.gl/A8dzqF
 
 ";
 
-$base64_encoded_1 = "700subrekgaes";
-$encoded_link = "https://zee.gl/1g46";
+$base64_encoded_1 = "ndakbisa";
+$encoded_link = "https://zee.gl/JP7uA3hu";
 
