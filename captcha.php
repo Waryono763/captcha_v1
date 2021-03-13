@@ -9,7 +9,7 @@ $bann = "${merah}
  \___)\_/\_/(__)   (__) \___)\_)(_/\_/\_/
 
 ${kuning} >${ijo} ada dana kaget 🖒
-${putih}   link dana kaget${ijo} https://za.gl/A8dzqF
+${putih}   link dana kaget${ijo} gk ada 😂
 
 ";
 
