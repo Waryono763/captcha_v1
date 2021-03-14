@@ -13,6 +13,6 @@ ${putih}   link dana kaget${ijo} gk ada 😂
 
 ";
 
-$base64_encoded_1 = "ndakbisa";
-$encoded_link = "https://zee.gl/JP7uA3hu";
+$base64_encoded_1 = "kakek legend";
+$encoded_link = "https://duit.cc/KihJ0v";
 
