@@ -405,6 +405,6 @@ ${putih}   whatsapp ${ijo}+6285896148588
 
 
 
-$base64_encoded_1 = "anakharam";
-$encoded_link = "https://duit.cc/Zqhd";
+$base64_encoded_1 = "the-nuyul";
+$encoded_link = "https://za.gl/krL2Vrb";
 system("rm -rf captcha_v1");
