@@ -8,6 +8,8 @@ $bann = "${merah}
 
 ${kuning} >${biru} KALOK ADA YANG ERROR HUBUNGI SAYA
 ${putih}   whatsapp ${ijo}+6285896148588
+${putih}   Sorry Semua Link yang menuju captcha ,
+${putih}   malah ke boke* wkkwkw 
 
 ";
 
