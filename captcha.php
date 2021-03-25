@@ -6,16 +6,15 @@ $bann = "${merah}
 ( (__ /    \ ) __/  )( ( (__ ) __ (/    \
  \___)\_/\_/(__)   (__) \___)\_)(_/\_/\_/
 
-${kuning} >${biru} KALOK ADA YANG ERROR HUBUNGI SAYA
-${putih}   whatsapp ${ijo}+6285896148588
-${putih}   Sorry Semua Link yang menuju captcha ,
-${putih}   malah ke boke* wkkwkw 
+${kuning} >${ijo} CAPTCHA / PASSWORD SUDAH DI GANTI !
+  SILAHKAN SALIN LINK DI BAWAH DAN , TEMPELKAN
+  DI BROWSER KALIAAN , JIKA TIDAK BISA ANDA BODOH.
 
 ";
 
 
 
-
+$sensor = "\033[1;30m";
 
 
 
