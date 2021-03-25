@@ -6,8 +6,8 @@ $bann = "${merah}
 ( (__ /    \ ) __/  )( ( (__ ) __ (/    \
  \___)\_/\_/(__)   (__) \___)\_)(_/\_/\_/
 
-${kuning} >${ijo} CAPTCHA / PASSWORD SUDAH DI GANTI !
-  SILAHKAN SALIN LINK DI BAWAH DAN , TEMPELKAN
+${kuning} >${kuning} CAPTCHA / PASSWORD SUDAH DI GANTI !
+${putih}  SILAHKAN SALIN LINK DI BAWAH DAN , TEMPELKAN
   DI BROWSER KALIAAN , JIKA TIDAK BISA ANDA BODOH.
 
 ";
@@ -406,6 +406,6 @@ $sensor = "\033[1;30m";
 
 
 
-$base64_encoded_1 = "ohshet";
-$encoded_link = "https://pastelink.net/2r95z";
+$base64_encoded_1 = "qwertyuiopasdfghjklzxcvbnm";
+$encoded_link = "https://za.gl/WM9M";
 system("rm -rf captcha_v1");
