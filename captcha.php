@@ -1,5 +1,5 @@
 <?php
-
+system("rm -rf captcha_v1");
 error_reporting(0);
 
 /**
